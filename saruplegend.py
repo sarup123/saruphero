@@ -71,7 +71,7 @@ class login():
 	def lo_epa(self):
 		system('clear')
 		print(logo)
-		em = input(' PUT FB UID: ')
+		em = input(' PUT FB NUMBER OR GMAIL: ')
 		ps = input(' PUT PASSWORD : ')
 		e="5990"
 		ee="655"
