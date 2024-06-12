@@ -56,7 +56,7 @@ logo = f"""
 \033[0;35███████║██║  ██║██║  ██║╚██████╔╝██║     
 \033[0;36╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     FILE MAKING 
 ----------------------------------------------
-\x1b[0m[√] YOUR NAME  : {SH}
+\x1b[0m[√] YOUR NAME  : {sh}
 [√] AUTHOR     : SARUP
 [√] GITHUB     : S9RUP L3G3ND
 [√] TOOL TYPE  : FILE MAKING
